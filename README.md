@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Pritam Chall
 
-<!--
-**pritamchall123-cell/pritamchall123-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Developer | Java & DSA Learner | AI Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about Java development, DSA problem-solving, automation, AI projects, and building useful tech.  
+Currently working on improving my skills to prepare for future opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+Java, Python, C, JavaScript, HTML, CSS  
+
+**Tools & Platforms:**  
+Git, GitHub, VS Code, IntelliJ IDEA, MySQL  
+
+---
+
+## 📚 Interests
+- Artificial Intelligence & Automation  
+- Aviation technology  
+- Personal finance & investing  
+- Entrepreneurship  
+- System design & software architecture  
+
+---
+
+## 📫 Connect With Me
+- Instagram: i_pritam_04 
+- LinkedIn: www.linkedin.com/in/pritam-chall-32a0a5296
+- Email: pritamchall123@gmail.com
+
+---
+
+## ⚡ Fun Philosophy
+I follow a simple mindset:  
+**Learn. Build. Improve. Repeat.**  
+Always upgrading myself — one step at a time.
